@@ -49,7 +49,7 @@ function Experience() {
                     iconStyle={{ background: "gray", color: "#e9c35b" }}
                     icon={<WorkIcon />}
                 >
-                    <h3 className="vertical-timeline-element-title">Open for new opportunities!</h3>
+                    <h3 className="vertical-timeline-element-title">Frontend Developer</h3>
                     <p>Hard working and dedicated Developer.</p>
 
                 </VerticalTimelineElement>

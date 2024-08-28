@@ -12,7 +12,7 @@ function Home() {
         <div className="home">
             <div className="about">
               
-                <h2>Hi, My Name is Fernando</h2>
+                <h2>Hi, my name is Fernando</h2>
                 <div className="socialMedia">
                     <p >
                         Web Developer at your service.

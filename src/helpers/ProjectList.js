@@ -2,7 +2,7 @@ import satLogoOrange from '../assets/satLogoOrange.png';
 import TodoList from '../assets/TodoList.jpg';
 import logo from '../assets/logo.png';
 import joyfulladysmall from '../assets/joyful-lady-small.jpg';
-import musiclogo from '../assets/musiclogo.jpg';
+import jnglogo2 from '../assets/jnglogo2.png';
 
 
 export const ProjectList = [
@@ -24,15 +24,21 @@ export const ProjectList = [
         skills: "JS,CSS,HTML-(Group project)",
     },
 
-    {
-        name: "Spodify clone",
-        image: musiclogo,
-        skills: "JS,CSS,HTML",
-    },
+    // {
+    //     name: "Spodify clone",
+    //     image: musiclogo,
+    //     skills: "JS,CSS,HTML",
+    // },
 
     {
         name: "SatFlik",
         image: satLogoOrange,
         skills: "JS,CSS,HTML-(Group project)",
+    },
+
+    {
+        name: "JG-Co",
+        image: jnglogo2,
+        skills: "JS,CSS",
     }
 ];
